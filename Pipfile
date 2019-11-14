@@ -9,6 +9,7 @@ verify_ssl = true
 seaborn = "*"
 sqlalchemy = "*"
 pymysql = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.7"

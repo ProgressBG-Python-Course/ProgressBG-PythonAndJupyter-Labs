@@ -27,3 +27,6 @@ __*
 # *.sublime-project
 
 **/students/**
+
+# custom
+ES*json
